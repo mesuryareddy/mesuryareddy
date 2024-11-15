@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Machine Learning, Deep learning, Robotics
 - 🌱 I’m currently learning ... Robotics
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 'sjambula6@gmail.com'
+- 📫 How to reach me ... 'suryajambula@gmail.com'
 
 <!---
 mesuryareddy/mesuryareddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
